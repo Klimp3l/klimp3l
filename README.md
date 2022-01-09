@@ -10,7 +10,7 @@
   <img align="center" alt="Klimp3l-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Klimp3l-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Klimp3l-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Klimp3l-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/python-plain.svg">
+  <img align="center" alt="Klimp3l-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
 </div>
   
 ##
